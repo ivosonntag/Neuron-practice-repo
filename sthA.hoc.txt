@@ -17,3 +17,5 @@ stim.dur = 100
 stim.amp = 0.1
 
 tstop = 300
+
+load_file("nrngui.hoc")
